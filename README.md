@@ -19,7 +19,8 @@ check Use the following IP address. You’ll need to fill out the following thre
 
 Make sure you assign a name to your server that reflects its new role. Something like Test-DC16 might be good
 
-![ad-4](https://github.com/user-attachments/assets/af490b90-e0fb-4334-b680-76fa5029680d)
+
+
 
 4- **Now: Install the Active Directory Domain Services role**
 
