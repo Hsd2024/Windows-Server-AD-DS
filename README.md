@@ -28,13 +28,14 @@ Server Manager should open by default. If it doesn’t, click the Start menu and
 
 In Server Manager, click the Manage menu in the top-right corner and select Add Roles and Features from the menu.
 
-![ad-1](https://github.com/user-attachments/assets/d513b56b-437c-4e8e-9980-f22671dc400e)
+![ad-1](https://github.com/user-attachments/assets/321b772c-ec71-4073-b09e-4902e41eb46b)
 
 5- **In the Add Roles and Features Wizard**
 
 On the Installation Type screen, make sure that Role-based or feature-based installation is selected and click Next.
 Select your server
-![ad-6](https://github.com/user-attachments/assets/7be63f0d-3ab8-421b-b234-c5307e0b250d)
+
+![ad-5](https://github.com/user-attachments/assets/372dd6b3-25de-402c-8ad7-a0a53b78a7c3)
 
 
 **Select Next**
