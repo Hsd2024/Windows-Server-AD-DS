@@ -37,7 +37,6 @@ Select your server
 
 ![ad-5](https://github.com/user-attachments/assets/372dd6b3-25de-402c-8ad7-a0a53b78a7c3)
 
-
 **Select Next**
 
 6- **In the Add Roles and Features Wizard**
@@ -46,39 +45,10 @@ Make sure that Include management tools (if applicable) is checked then click Ad
 
 ![ad-7](https://github.com/user-attachments/assets/ce1b7129-27b7-403a-94a3-4ed8fe45bc41)
 
-
 2-  select "Active Directory Domain Services"
 
-![ad-8](https://github.com/user-attachments/assets/36d5c432-c930-482c-ac18-367ac7f9da37)
+<img width="383" alt="dco6" src="https://github.com/user-attachments/assets/5675b623-43dd-4ac8-927f-33f69cb7feba" />
 
 **Select Next**
 **Now click Install on the Confirmation screen**
 When the installation is complete, click Close in the Add Roles and Features Wizard.**
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
