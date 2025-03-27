@@ -44,7 +44,8 @@ Select your server
 
 Make sure that Include management tools (if applicable) is checked then click Add Features
 
-![ad-7](https://github.com/user-attachments/assets/551c03ca-bfad-448e-bdee-a3b521ad6dc9)
+![ad-7](https://github.com/user-attachments/assets/ce1b7129-27b7-403a-94a3-4ed8fe45bc41)
+
 
 2-  select "Active Directory Domain Services"
 
