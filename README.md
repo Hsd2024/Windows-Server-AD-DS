@@ -17,7 +17,7 @@ check Use the following IP address. You’ll need to fill out the following thre
 
 3- **Name your server**
 
-Make sure you assign a name to your server that reflects its new role. Something like Test-DC16 might be good
+Make sure you assign a name to your server that reflects its new role. I put it Home-lab
 
 ![ad-4](https://github.com/user-attachments/assets/4f91f09f-c5ae-4f10-a849-71d2ff4b4f04)
 
